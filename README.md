@@ -47,6 +47,7 @@ I'm an innovative developer with a strong foundation in AI, Data Science, and we
 
 ## 📊 My Activity  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adiidg&layout=compact&theme=algolia)  
+### Profile Visitors 
 ![Profile Visitors](https://profile-counter.glitch.me/{adiidg}/count.svg)  
 
 ---
