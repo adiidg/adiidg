@@ -34,7 +34,7 @@ I'm an innovative developer with a strong foundation in AI, Data Science, and we
 ## 🔗 Connect with Me  
 - 📧 Email: [adityagurav54@gmail.com](mailto:adityagurav54@gmail.com)  
 - 💼 LinkedIn: [Aditya Gurav](https://linkedin.com/in/adiiidg)  
-- 🌐 Portfolio: [Aditya's Portfolio](https://github.com/AdityaGurav/E-Waste-Facility-Locator)
+- 🌐 Portfolio: [Aditya's Portfolio](https://adiidg.github.io/myweb/)
 - 📸 Instagram: [@adiidg](https://www.instagram.com/adii.dg/)
 
 ---
