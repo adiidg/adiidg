@@ -40,7 +40,7 @@ I'm an innovative developer with a strong foundation in AI, Data Science, and we
 ---
 
 ## 🎯 Featured Projects    
-- **[Brixa Chat App](https://brixa-adiidg.web.app):** An AI-powered chat app using Google Gemini for enhanced user interaction.  
+
 - **[E-Waste Facility Locator](https://e-waste-facility-locators.web.app):** An E-Waste Management App providing Rewards on disposing E-Waste.  
 
 ---
